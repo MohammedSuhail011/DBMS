@@ -12,7 +12,7 @@ SELECT USER(),
 
 -- Paste the Output below by execution of above command
 /*	USER()	Host_Name	MySQL_Version	Current_Date_Time
-	root@localhost	RVU-PC-071	8.4.6	2025-09-01 11:25:54
+	root@localhost	RVU-PC-018	8.4.6	2025-09-01 11:25:54
 */
 
 -- -----------------------------------------------------------------------------------------------------------------------------------------
